@@ -1,9 +1,9 @@
 # Welcome to my GitHub profile! #
 
 ## About me ##
+  -I am 20 Years Old  
   -I am currently studying Software Engineering at Veliko Tarnovo University.  
   -I have a passion for coding and problem-solving.  
-  -I am 20 Years Old  
   -I am an practitioner of Brazilian Jiu-Jitsu.    
 
 ### Tech stack ###
