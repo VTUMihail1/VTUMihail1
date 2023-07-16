@@ -9,7 +9,9 @@
 ### Tech stack ###
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40" /  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40" / 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/html-original.svg" alt="HTML" width="40" height="40" / 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/css-original.svg" alt="CSS" width="40" height="40" / 
 </p>
 
 ### Additional Info ###
